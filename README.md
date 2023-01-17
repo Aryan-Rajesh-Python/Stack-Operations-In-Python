@@ -1,1 +1,1 @@
-# Stack-Operations-In-Python
+in stack the element which is inserted at the last is popped out. and in our code we have 5 operations named push, pop, peek, dispaly, exit. here push inserts the element, pop removes the last inserted element into the stack, peek shows you the top element of the stack, display shows the elements of stack in reverse order, and exit throws you out of the program.
